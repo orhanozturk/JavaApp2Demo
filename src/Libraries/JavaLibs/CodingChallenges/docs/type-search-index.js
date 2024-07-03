@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.csystem.challenge.collection","l":"IntArrayStack"}];updateSearchResults();
